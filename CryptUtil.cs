@@ -46,6 +46,9 @@
 				- (see private initConfig(...) method for more details)
 			
    
+   Microsoft C# cryptographic documentation and examples were referenced in the
+   development of this utility.
+   
    For more specific information, please contact the author or
    relevant person(s).
 */ 
