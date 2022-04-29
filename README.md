@@ -1,5 +1,5 @@
 # CredAbstractor
-A simple credential abstraction mechanism for minor implementation needs.
+A simple credential abstraction mechanism for minor implementation needs. **NOTE: Project initially developed in April 2020.**
 
 **This compiles with .NET 4.0.X and above.**
 
